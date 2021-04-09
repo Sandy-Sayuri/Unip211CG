@@ -21,7 +21,7 @@ public class Desenho {
 	public List<Ponto> getPontos(){
 		return pontos;
 	}
-	
+	//teste
 	public Ponto getPontoCentral() {
 		Ponto pontoMedio = new Ponto(0, 0);
 		for(Ponto p: pontos) {
